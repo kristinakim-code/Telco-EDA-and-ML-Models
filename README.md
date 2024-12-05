@@ -7,7 +7,7 @@
 # I use libraries such as Pandas, Numpy, Seaborn, and MatPlotLib for the EDA to see which variables are most correlated with the Churn variable. 
 # I create a SweetViz and Pandas Profiling Report to further investigate Churn variable.
 # Then, I use four different models (Naive-Bayes, Logistic Regression, XGBoost, and Random Forest) to predict whether or not a customer is likely to turn.
-# Lastly, I tune the model using different parameters to get the models as accurate as possible.
+# Lastly, I tune the models using different parameters to get the models as accurate as possible.
 # Project Challenges and Future Improvements:
 # Dataset is biased towards non-churned customers, so it has to be standardized.
 # The models always have room for improvement, so I would continue tuning the models using other parameters and try using other models as well. 
